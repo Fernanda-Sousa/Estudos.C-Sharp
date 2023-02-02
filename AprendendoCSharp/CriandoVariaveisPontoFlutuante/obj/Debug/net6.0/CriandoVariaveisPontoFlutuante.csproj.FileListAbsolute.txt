@@ -1,0 +1,15 @@
+C:\AprendendoCSharp\AprendendoCSharp\CriandoVariaveisPontoFlutuante\bin\Debug\net6.0\CriandoVariaveisPontoFlutuante.exe
+C:\AprendendoCSharp\AprendendoCSharp\CriandoVariaveisPontoFlutuante\bin\Debug\net6.0\CriandoVariaveisPontoFlutuante.deps.json
+C:\AprendendoCSharp\AprendendoCSharp\CriandoVariaveisPontoFlutuante\bin\Debug\net6.0\CriandoVariaveisPontoFlutuante.runtimeconfig.json
+C:\AprendendoCSharp\AprendendoCSharp\CriandoVariaveisPontoFlutuante\bin\Debug\net6.0\CriandoVariaveisPontoFlutuante.dll
+C:\AprendendoCSharp\AprendendoCSharp\CriandoVariaveisPontoFlutuante\bin\Debug\net6.0\CriandoVariaveisPontoFlutuante.pdb
+C:\AprendendoCSharp\AprendendoCSharp\CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\CriandoVariaveisPontoFlutuante.csproj.AssemblyReference.cache
+C:\AprendendoCSharp\AprendendoCSharp\CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\CriandoVariaveisPontoFlutuante.GeneratedMSBuildEditorConfig.editorconfig
+C:\AprendendoCSharp\AprendendoCSharp\CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\CriandoVariaveisPontoFlutuante.AssemblyInfoInputs.cache
+C:\AprendendoCSharp\AprendendoCSharp\CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\CriandoVariaveisPontoFlutuante.AssemblyInfo.cs
+C:\AprendendoCSharp\AprendendoCSharp\CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\CriandoVariaveisPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\AprendendoCSharp\AprendendoCSharp\CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\CriandoVariaveisPontoFlutuante.dll
+C:\AprendendoCSharp\AprendendoCSharp\CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\refint\CriandoVariaveisPontoFlutuante.dll
+C:\AprendendoCSharp\AprendendoCSharp\CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\CriandoVariaveisPontoFlutuante.pdb
+C:\AprendendoCSharp\AprendendoCSharp\CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\CriandoVariaveisPontoFlutuante.genruntimeconfig.cache
+C:\AprendendoCSharp\AprendendoCSharp\CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\ref\CriandoVariaveisPontoFlutuante.dll

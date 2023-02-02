@@ -1,0 +1,15 @@
+C:\AprendendoCSharp\AprendendoCSharp\P12-InvestimentoALongoPrazo\bin\Debug\net6.0\P12-InvestimentoALongoPrazo.exe
+C:\AprendendoCSharp\AprendendoCSharp\P12-InvestimentoALongoPrazo\bin\Debug\net6.0\P12-InvestimentoALongoPrazo.deps.json
+C:\AprendendoCSharp\AprendendoCSharp\P12-InvestimentoALongoPrazo\bin\Debug\net6.0\P12-InvestimentoALongoPrazo.runtimeconfig.json
+C:\AprendendoCSharp\AprendendoCSharp\P12-InvestimentoALongoPrazo\bin\Debug\net6.0\P12-InvestimentoALongoPrazo.dll
+C:\AprendendoCSharp\AprendendoCSharp\P12-InvestimentoALongoPrazo\bin\Debug\net6.0\P12-InvestimentoALongoPrazo.pdb
+C:\AprendendoCSharp\AprendendoCSharp\P12-InvestimentoALongoPrazo\obj\Debug\net6.0\P12-InvestimentoALongoPrazo.csproj.AssemblyReference.cache
+C:\AprendendoCSharp\AprendendoCSharp\P12-InvestimentoALongoPrazo\obj\Debug\net6.0\P12-InvestimentoALongoPrazo.GeneratedMSBuildEditorConfig.editorconfig
+C:\AprendendoCSharp\AprendendoCSharp\P12-InvestimentoALongoPrazo\obj\Debug\net6.0\P12-InvestimentoALongoPrazo.AssemblyInfoInputs.cache
+C:\AprendendoCSharp\AprendendoCSharp\P12-InvestimentoALongoPrazo\obj\Debug\net6.0\P12-InvestimentoALongoPrazo.AssemblyInfo.cs
+C:\AprendendoCSharp\AprendendoCSharp\P12-InvestimentoALongoPrazo\obj\Debug\net6.0\P12-InvestimentoALongoPrazo.csproj.CoreCompileInputs.cache
+C:\AprendendoCSharp\AprendendoCSharp\P12-InvestimentoALongoPrazo\obj\Debug\net6.0\P12-InvestimentoALongoPrazo.dll
+C:\AprendendoCSharp\AprendendoCSharp\P12-InvestimentoALongoPrazo\obj\Debug\net6.0\refint\P12-InvestimentoALongoPrazo.dll
+C:\AprendendoCSharp\AprendendoCSharp\P12-InvestimentoALongoPrazo\obj\Debug\net6.0\P12-InvestimentoALongoPrazo.pdb
+C:\AprendendoCSharp\AprendendoCSharp\P12-InvestimentoALongoPrazo\obj\Debug\net6.0\P12-InvestimentoALongoPrazo.genruntimeconfig.cache
+C:\AprendendoCSharp\AprendendoCSharp\P12-InvestimentoALongoPrazo\obj\Debug\net6.0\ref\P12-InvestimentoALongoPrazo.dll

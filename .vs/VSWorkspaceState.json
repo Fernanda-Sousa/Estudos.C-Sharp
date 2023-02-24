@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\AprendendoCSharp\\1-OlaMundo",
-    "\\CSharp-OrientacaoAObjetos"
+    "\\curso_OrientacaoObjetosC02R",
+    "\\curso_OrientacaoObjetosC02R\\bytebank_ADM",
+    "\\curso_OrientacaoObjetosC02R\\bytebank_ADM\\Parceria"
   ],
-  "SelectedNode": "\\CSharp-OrientacaoAObjetos",
+  "SelectedNode": "\\curso_OrientacaoObjetosC02R\\bytebank_ADM\\Parceria\\ParceiroComercial.cs",
   "PreviewInSolutionExplorer": false
 }

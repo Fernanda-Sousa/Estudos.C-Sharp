@@ -1,0 +1,15 @@
+C:\Users\Fernanda\source\repos\Estudos.C-Sharp\csharp_exception-main\csharp_exception\bin\Debug\net6.0\csharp_exception.exe
+C:\Users\Fernanda\source\repos\Estudos.C-Sharp\csharp_exception-main\csharp_exception\bin\Debug\net6.0\csharp_exception.deps.json
+C:\Users\Fernanda\source\repos\Estudos.C-Sharp\csharp_exception-main\csharp_exception\bin\Debug\net6.0\csharp_exception.runtimeconfig.json
+C:\Users\Fernanda\source\repos\Estudos.C-Sharp\csharp_exception-main\csharp_exception\bin\Debug\net6.0\csharp_exception.dll
+C:\Users\Fernanda\source\repos\Estudos.C-Sharp\csharp_exception-main\csharp_exception\bin\Debug\net6.0\csharp_exception.pdb
+C:\Users\Fernanda\source\repos\Estudos.C-Sharp\csharp_exception-main\csharp_exception\obj\Debug\net6.0\csharp_exception.csproj.AssemblyReference.cache
+C:\Users\Fernanda\source\repos\Estudos.C-Sharp\csharp_exception-main\csharp_exception\obj\Debug\net6.0\csharp_exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernanda\source\repos\Estudos.C-Sharp\csharp_exception-main\csharp_exception\obj\Debug\net6.0\csharp_exception.AssemblyInfoInputs.cache
+C:\Users\Fernanda\source\repos\Estudos.C-Sharp\csharp_exception-main\csharp_exception\obj\Debug\net6.0\csharp_exception.AssemblyInfo.cs
+C:\Users\Fernanda\source\repos\Estudos.C-Sharp\csharp_exception-main\csharp_exception\obj\Debug\net6.0\csharp_exception.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda\source\repos\Estudos.C-Sharp\csharp_exception-main\csharp_exception\obj\Debug\net6.0\csharp_exception.dll
+C:\Users\Fernanda\source\repos\Estudos.C-Sharp\csharp_exception-main\csharp_exception\obj\Debug\net6.0\refint\csharp_exception.dll
+C:\Users\Fernanda\source\repos\Estudos.C-Sharp\csharp_exception-main\csharp_exception\obj\Debug\net6.0\csharp_exception.pdb
+C:\Users\Fernanda\source\repos\Estudos.C-Sharp\csharp_exception-main\csharp_exception\obj\Debug\net6.0\csharp_exception.genruntimeconfig.cache
+C:\Users\Fernanda\source\repos\Estudos.C-Sharp\csharp_exception-main\csharp_exception\obj\Debug\net6.0\ref\csharp_exception.dll

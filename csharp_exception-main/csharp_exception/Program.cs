@@ -8,7 +8,7 @@ try
 }
 catch(ArgumentException ex)
 {
-    Console.WriteLine("Parâmetro com erro" + ex.ParamName);
+    Console.WriteLine("Parâmetro com erro: " + ex.ParamName);//pra usar o nome do parametro tenho q passar ele no throw (ContaCorrente)
     Console.WriteLine("Não é possível criar uma conta com o número de agência menor ou igual a zero!");
     Console.WriteLine(ex.Message);
     
